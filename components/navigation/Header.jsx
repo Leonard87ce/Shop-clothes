@@ -11,12 +11,12 @@ export const Header = () => {
             <div className="navbar__menu-left flex h-100 items-center hidden space-x-8 lg:flex ">
                 <ul className="flex flex-row ">
                     <NavLink
-                        url="/women"
-                        label="Women"
+                        url="/computers"
+                        label="Computers"
                         />
                     <NavLink
-                        url="/Men"
-                        label="Men"
+                        url="/Phones"
+                        label="Phones"
                         />
                 </ul>
             </div>
