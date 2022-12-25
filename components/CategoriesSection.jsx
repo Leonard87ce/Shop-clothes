@@ -30,6 +30,10 @@ export const  CategoriesSection = () => {
             name: "Dell",
             imgUrl: "/images/categories/laptopdell.jpg"
         },
+        {
+            name: "Headphones",
+            imgUrl: "/images/categories/headphones.webp"
+        },
     ]
 
     return (
